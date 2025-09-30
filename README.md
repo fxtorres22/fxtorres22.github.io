@@ -39,7 +39,7 @@ No data is stored beyond what is needed to send messages.
 
 ## 📄 Terms and Conditions
 - This project is for **personal learning only**.  
-- Messages are limited in number (under ~20 per month).  
+- Messages are limited in number (under ~10 per month).  
 - Participation is voluntary and limited to consenting individuals.  
 - There is **no guarantee of message delivery** as this is a development project.  
 
